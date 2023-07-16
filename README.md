@@ -8,7 +8,7 @@ I'm a Full Stack Developer with emphasis on web & mobile development.
 
 ⏳ Overall, while I have spent over 70% of my experience in Frontend developer, I enjoy being part of the end-to-end process of software development, which includes cloud architecture with AWS. I'm passionate about making stuff work and delivering it users!
 
-🚢 I'm working as a React Native developer at the moment. At my job, I implement features, manage multiple code bases and their product release cycles. I ship code to the web and to the iOS/Android Stores.
+🚢 I'm working as a React Native / React developer at the moment. At my job, I implement features, manage multiple code bases and their product release cycles. I ship code to the web and to the iOS/Android Stores.
 
 🏰 I am entrepreneurial. I like to always reference business goals and user benefits while I do my work.
 
