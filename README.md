@@ -12,7 +12,7 @@ I'm a Full Stack Developer with emphasis on web & mobile development.
 
 🏰 I am entrepreneurial. I like to always reference business goals and user benefits while I do my work.
 
-🐍 Currently, I'm learning Python with CS50p.
+🐍 Currently, I'm learning Python with CS50p, and Next.js, while grinding away at [Leetcode](https://leetcode.com/leonardshen/).
 
 ### Tools I enjoy using to help me deliver the goods:
 
