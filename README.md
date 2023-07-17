@@ -30,6 +30,7 @@ I'm a Full Stack Developer with emphasis on web & mobile development.
 ![MongoDB](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&logoColor=white&labelColor=47A248&color=47A248)
 ![MUI](https://img.shields.io/badge/materialUI-informational?style=flat&logo=mui&logoColor=white&labelColor=#007FFF&color=007FFF)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-informational?style=flat&logo=TailwindCSS&logoColor=white&labelColor=06B6D4&color=06B6D4)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&labelColor=7952B3&color=7952B3)
 ![Git](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&labelColor=F05032&color=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=white&labelColor=181717&color=181717)
 ![HTML5](https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&logoColor=white&labelColor=E34F26&color=E34F26)
