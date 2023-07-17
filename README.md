@@ -40,3 +40,9 @@ I'm a Full Stack Developer with emphasis on web & mobile development.
 ![npm](https://img.shields.io/badge/npm-informational?style=flat&logo=npm&logoColor=white&labelColor=CB3837&color=CB3837)
 ![Adobe_XD](https://img.shields.io/badge/AdobeXD-informational?style=flat&logo=adobexd&logoColor=white&labelColor=FF61F6&color=FF61F6)
 ![Adobe_Photoshop](https://img.shields.io/badge/Photoshop-informational?style=flat&logo=adobephotoshop&logoColor=white&labelColor=31A8FF&color=31A8FF)
+
+### What people say about me:
+
+> I hired Leonard to build a prototype mobile app to help accountants in Canada keep track of their industry education hours. Not only did Leonard build the app according to the specifications I laid out, but he also did his own research and built the app according to the different provincial CPA rules in Canada. Leonard is very easy to work with and I would definitely recommend him as a software programmer.
+>
+> Founder, Principal
