@@ -45,4 +45,4 @@ I'm a Full Stack Developer with emphasis on web & mobile development.
 
 > I hired Leonard to build a prototype mobile app to help accountants in Canada keep track of their industry education hours. Not only did Leonard build the app according to the specifications I laid out, but he also did his own research and built the app according to the different provincial CPA rules in Canada. Leonard is very easy to work with and I would definitely recommend him as a software programmer.
 >
-> Founder, Principal
+> Garth Sheriff - Principal, Sheriff Consulting
