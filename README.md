@@ -4,15 +4,15 @@
 
 ## Hey I'm Leonard! 👋
 
-I'm a Full Stack Developer with emphasis on web & mobile development.
+I'm a Full Stack Developer with emphasis on frontend web & react native mobile development. I have been doing this professionally for 3 years. Prior to this, I learned by teaching myself building personal projects.
 
 ⏳ Overall, while I have spent over 70% of my experience in Frontend developer, I enjoy being part of the end-to-end process of software development, which includes cloud architecture with AWS. I'm passionate about making stuff work and delivering it to users!
 
-🚢 I'm working as a React Native / React developer at the moment. At my job, I implement features, manage multiple code bases and their product release cycles. I ship code to the web and to the iOS/Android Stores.
+🚢 My previous job was a React Native / React developer. At that role, I implemented features, manage multiple code bases and their product release cycles. I ship code to the web and to the iOS/Android Stores.
 
 🏰 I am entrepreneurial. I like to always reference business goals and user benefits while I do my work.
 
-🐍 Currently, I'm learning Python with CS50p, and Next.js, while grinding away at [Leetcode](https://leetcode.com/leonardshen/).
+🐍 Currently, I'm helping a small start up on both frontend and backend, while grinding away at [Leetcode](https://leetcode.com/leonardshen/).
 
 ### Tools I enjoy using to help me deliver the goods:
 
@@ -46,3 +46,8 @@ I'm a Full Stack Developer with emphasis on web & mobile development.
 > I hired Leonard to build a prototype mobile app to help accountants in Canada keep track of their industry education hours. Not only did Leonard build the app according to the specifications I laid out, but he also did his own research and built the app according to the different provincial CPA rules in Canada. Leonard is very easy to work with and I would definitely recommend him as a software programmer.
 >
 > **Garth Sheriff - Principal, Sheriff Consulting**
+
+## Previous roles / projects
+### Linggo
+Linggo is an mobile app that assists people with learning disabilities to communicate. Here are a few screen shots:
+
