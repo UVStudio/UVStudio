@@ -51,3 +51,18 @@ I'm a Full Stack Developer with emphasis on frontend web & react native mobile d
 ### Linggo
 Linggo is an mobile app that assists people with learning disabilities to communicate. Here are a few screen shots:
 
+<figure>
+    <figcaption>Download progress bar</figcaption>
+    <img src="linggo-progress-bar.png"
+          width="600" height="400"
+         alt="Linggo-progress-bar">
+</figure>
+<figure>
+    <figcaption>Redesigned dropdown</figcaption>
+    <img src="linggo-redesigned-dropdown.png"
+          width="600" height="400"
+         alt="Linggo-redesigned-dropdown">
+</figure>
+
+
+
