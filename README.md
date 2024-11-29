@@ -97,5 +97,20 @@ Technologies used:
 ![Amazon_AWS](https://img.shields.io/badge/AWS-informational?style=flat&logo=amazonwebservices&logoColor=white&labelColor=232F3E&color=232F3E)
 ![MongoDB](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&logoColor=white&labelColor=47A248&color=47A248)
 
-<img src="/images/stats1.png" width="250"> <img src="/images/stats2.png" width="250"> <img src="/images/ver.png" width="250"> <img src="/images/profile.png" width="250"> <img src="/images/timer.png" width="250"> <img src="/images/courses.png" width="250">
+<img src="/images/stats1.png" width="250"> <img src="/images/stats2.png" width="250"> <img src="/images/ver.png" width="250"> <img src="/images/cpd-profile.png" width="250"> <img src="/images/timer.png" width="250"> <img src="/images/courses.png" width="250">
+
+### Revue
+Revue is a prototype platform made for video collaboration.
+>
+Technologies used:
+>
+![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&labelColor=F7DF1E&color=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=white&labelColor=007ACC&color=007ACC)
+![Node.js](https://img.shields.io/badge/Node.js-informational?style=flat&logo=node.js&logoColor=white&labelColor=339933&color=339933)
+![React](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&labelColor=61DAFB&color=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-informational?style=flat&logo=redux&logoColor=white&labelColor=764ABC&color=764ABC)
+![Amazon_AWS](https://img.shields.io/badge/AWS-informational?style=flat&logo=amazonwebservices&logoColor=white&labelColor=232F3E&color=232F3E)
+![MUI](https://img.shields.io/badge/materialUI-informational?style=flat&logo=mui&logoColor=white&labelColor=#007FFF&color=007FFF)
+
+<img src="/images/revue-profile.png" width="600"> <img src="/images/video.png" width="600"> <img src="/images/comments.png" width="600">
 
