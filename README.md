@@ -26,7 +26,7 @@ I'm a Full Stack Developer with emphasis on frontend web & react native mobile d
 ![Next.js](https://img.shields.io/badge/Next.js-informational?style=flat&logo=next.js&logoColor=white&labelColor=000000&color=000000)
 ![Node.js](https://img.shields.io/badge/Node.js-informational?style=flat&logo=node.js&logoColor=white&labelColor=339933&color=339933)
 ![Python](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&labelColor=3776AB&color=3776AB)
-![Amazon_AWS](https://img.shields.io/badge/AWS-informational?style=flat&logo=logo=amazonwebservices&logoColor=white&labelColor=232F3E&color=232F3E)
+![Amazon_AWS](https://img.shields.io/badge/AWS-informational?style=flat&logo=amazonwebservices&logoColor=white&labelColor=232F3E&color=232F3E)
 ![MongoDB](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&logoColor=white&labelColor=47A248&color=47A248)
 ![MUI](https://img.shields.io/badge/materialUI-informational?style=flat&logo=mui&logoColor=white&labelColor=#007FFF&color=007FFF)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-informational?style=flat&logo=TailwindCSS&logoColor=white&labelColor=06B6D4&color=06B6D4)
@@ -65,7 +65,7 @@ Technologies used:
 ![Redux](https://img.shields.io/badge/Redux-informational?style=flat&logo=redux&logoColor=white&labelColor=764ABC&color=764ABC)
 ![Xcode](https://img.shields.io/badge/Xcode-informational?style=flat&logo=xcode&logoColor=white&labelColor=007ACC&color=007ACC)
 ![Android Studio](https://img.shields.io/badge/AndroidStudio-informational?style=flat&logo=xcode&logoColor=white&labelColor=3DDC84&color=3DDC84)
-![Amazon_AWS](https://img.shields.io/badge/AWS-informational?style=flat&logo=logo=amazonwebservices&logoColor=white&labelColor=232F3E&color=232F3E)
+![Amazon_AWS](https://img.shields.io/badge/AWS-informational?style=flat&logo=amazonwebservices&logoColor=white&labelColor=232F3E&color=232F3E)
 ![Jira](https://img.shields.io/badge/Jira-informational?style=flat&logo=jira&logoColor=white&labelColor=0052CC&color=0052CC)
 
 Here are a few screen shots:
