@@ -21,12 +21,12 @@ I'm a Full Stack Developer with emphasis on frontend web & react native mobile d
 ![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&labelColor=F7DF1E&color=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=white&labelColor=007ACC&color=007ACC)
 ![React](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&labelColor=61DAFB&color=61DAFB)
-![React-Natives](https://img.shields.io/badge/ReactNative-informational?style=flat&logo=react&logoColor=white&labelColor=61DAFB&color=61DAFB)
+![React-Native](https://img.shields.io/badge/ReactNative-informational?style=flat&logo=react&logoColor=white&labelColor=61DAFB&color=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-informational?style=flat&logo=redux&logoColor=white&labelColor=764ABC&color=764ABC)
 ![Next.js](https://img.shields.io/badge/Next.js-informational?style=flat&logo=next.js&logoColor=white&labelColor=000000&color=000000)
 ![Node.js](https://img.shields.io/badge/Node.js-informational?style=flat&logo=node.js&logoColor=white&labelColor=339933&color=339933)
 ![Python](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&labelColor=3776AB&color=3776AB)
-![Amazon_AWS](https://img.shields.io/badge/AWS-informational?style=flat&logo=amazon-aws&logoColor=white&labelColor=232F3E&color=232F3E)
+![Amazon_AWS](https://img.shields.io/badge/AWS-informational?style=flat&logo=logo=amazonwebservices&logoColor=white&labelColor=232F3E&color=232F3E)
 ![MongoDB](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&logoColor=white&labelColor=47A248&color=47A248)
 ![MUI](https://img.shields.io/badge/materialUI-informational?style=flat&logo=mui&logoColor=white&labelColor=#007FFF&color=007FFF)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-informational?style=flat&logo=TailwindCSS&logoColor=white&labelColor=06B6D4&color=06B6D4)
@@ -56,7 +56,19 @@ I'm a Full Stack Developer with emphasis on frontend web & react native mobile d
 
 ## Previous roles / projects
 ### Linggo
-Linggo is an mobile app that assists people with learning disabilities to communicate. Here are a few screen shots:
+Linggo is an mobile app that assists people with learning disabilities to communicate. 
+>
+Technologies used:
+>
+![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&labelColor=F7DF1E&color=F7DF1E)
+![React-Native](https://img.shields.io/badge/ReactNative-informational?style=flat&logo=react&logoColor=white&labelColor=61DAFB&color=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-informational?style=flat&logo=redux&logoColor=white&labelColor=764ABC&color=764ABC)
+![Xcode](https://img.shields.io/badge/Xcode-informational?style=flat&logo=xcode&logoColor=white&labelColor=007ACC&color=007ACC)
+![Android Studio](https://img.shields.io/badge/AndroidStudio-informational?style=flat&logo=xcode&logoColor=white&labelColor=3DDC84&color=3DDC84)
+![Amazon_AWS](https://img.shields.io/badge/AWS-informational?style=flat&logo=logo=amazonwebservices&logoColor=white&labelColor=232F3E&color=232F3E)
+![Jira](https://img.shields.io/badge/Jira-informational?style=flat&logo=jira&logoColor=white&labelColor=0052CC&color=0052CC)
+
+Here are a few screen shots:
 
 <figure>
     <figcaption>Download progress bar</figcaption>
@@ -71,5 +83,19 @@ Linggo is an mobile app that assists people with learning disabilities to commun
          alt="Linggo-redesigned-dropdown">
 </figure>
 
+### CPD Tracker
+CPD Tracker for Sheriff Consulting was a prototype React Native project, designed for CPAs in Canada to keep track of their professional education hours.
+>
+Technologies used:
+>
+![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&labelColor=F7DF1E&color=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-informational?style=flat&logo=node.js&logoColor=white&labelColor=339933&color=339933)
+![React-Native](https://img.shields.io/badge/ReactNative-informational?style=flat&logo=react&logoColor=white&labelColor=61DAFB&color=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-informational?style=flat&logo=redux&logoColor=white&labelColor=764ABC&color=764ABC)
+![Xcode](https://img.shields.io/badge/Xcode-informational?style=flat&logo=xcode&logoColor=white&labelColor=007ACC&color=007ACC)
+![Android Studio](https://img.shields.io/badge/AndroidStudio-informational?style=flat&logo=xcode&logoColor=white&labelColor=3DDC84&color=3DDC84)
+![Amazon_AWS](https://img.shields.io/badge/AWS-informational?style=flat&logo=logo=amazonwebservices&logoColor=white&labelColor=232F3E&color=232F3E)
+![MongoDB](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&logoColor=white&labelColor=47A248&color=47A248)
 
+<img src="/images/stats1.png" width="250"> <img src="/images/stats2.png" width="250"> <img src="/images/ver.png" width="250"> <img src="/images/profile.png" width="250"> <img src="/images/timer.png" width="250"> <img src="/images/courses.png" width="250">
 
