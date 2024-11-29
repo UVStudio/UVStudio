@@ -94,7 +94,7 @@ Technologies used:
 ![Redux](https://img.shields.io/badge/Redux-informational?style=flat&logo=redux&logoColor=white&labelColor=764ABC&color=764ABC)
 ![Xcode](https://img.shields.io/badge/Xcode-informational?style=flat&logo=xcode&logoColor=white&labelColor=007ACC&color=007ACC)
 ![Android Studio](https://img.shields.io/badge/AndroidStudio-informational?style=flat&logo=xcode&logoColor=white&labelColor=3DDC84&color=3DDC84)
-![Amazon_AWS](https://img.shields.io/badge/AWS-informational?style=flat&logo=logo=amazonwebservices&logoColor=white&labelColor=232F3E&color=232F3E)
+![Amazon_AWS](https://img.shields.io/badge/AWS-informational?style=flat&logo=amazonwebservices&logoColor=white&labelColor=232F3E&color=232F3E)
 ![MongoDB](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&logoColor=white&labelColor=47A248&color=47A248)
 
 <img src="/images/stats1.png" width="250"> <img src="/images/stats2.png" width="250"> <img src="/images/ver.png" width="250"> <img src="/images/profile.png" width="250"> <img src="/images/timer.png" width="250"> <img src="/images/courses.png" width="250">
